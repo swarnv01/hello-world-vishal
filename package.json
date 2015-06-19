@@ -1,0 +1,25 @@
+{
+  "name": "hello-world-vishal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swarnv01/hello-world-vishal.git"
+  },
+  "keywords": [
+    "vishal"
+  ],
+  "author": "vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swarnv01/hello-world-vishal/issues"
+  },
+  "homepage": "https://github.com/swarnv01/hello-world-vishal",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
